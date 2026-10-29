@@ -9,11 +9,13 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@optimizely/cms-sdk": "^3.0.2",
     "next": "16.4.3",
     "react": "19.3.0",
     "react-dom": "19.3.0"
   },
   "devDependencies": {
+    "@optimizely/cms-cli": "^3.0.2",
     "@tailwindcss/turbopack": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
